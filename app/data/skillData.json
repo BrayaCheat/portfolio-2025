@@ -1,0 +1,67 @@
+{
+    "frontend": [
+      {
+        "name": "VueJs",
+        "image": "/icons/vuejs-48.png"
+      },
+      {
+        "name": "NuxtJs",
+        "image": "/icons/nuxt-js-50.png"
+      },
+      {
+        "name": "ReactJs",
+        "image": "/icons/react-50.png"
+      },
+      {
+        "name": "NextJs",
+        "image": "/icons/nextjs-48.png"
+      },
+      {
+        "name": "TailwindCSS",
+        "image": "/icons/tailwindcss-50.png"
+      }
+    ],
+    "backend": [
+      {
+        "name": "NodeJs",
+        "image": "/icons/nodejs-50.png"
+      },
+      {
+        "name": "ExpressJs",
+        "image": "/icons/express-js-50.png"
+      },
+      {
+        "name": "Springboot",
+        "image": "/icons/spring-boot-50.png"
+      }
+    ],
+    "database": [
+      {
+        "name": "Supabase",
+        "image": "/icons/supabase-48.png"
+      },
+      {
+        "name": "MySQL",
+        "image": "/icons/mysql-48.png"
+      },
+      {
+        "name": "MongoDB",
+        "image": "/icons/mongodb-50.png"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Docker",
+        "image": "/icons/docker-48.png"
+      },
+      {
+        "name": "Git",
+        "image": "/icons/git-50.png"
+      },
+      {
+        "name": "Prisma",
+        "image": "/icons/prisma-orm-50.png"
+      }
+    ]
+  }
+  

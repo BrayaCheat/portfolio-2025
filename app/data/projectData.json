@@ -1,0 +1,77 @@
+[
+    {
+      "thumbnail": "/images/mn-juicy/logo.webp",
+      "title": "MN Juicy",
+      "category": "Business",
+      "description": "Craving a refreshing, delicious, and budget-friendly drink? Look no further than MN Juicy! Our juices are packed with all-natural ingredients and bursting with flavor, giving you the perfect pick-me-up any time of day. From vibrant fruit blends to energizing veggie juices, MN Juicy is here to satisfy your cravings while keeping your wallet happy.",
+      "video": "/images/mn-juicy/video.mp4",
+      "image": ["/placeholder-1.jpeg", "/placeholder-2.jpeg"],
+      "url": "https://mn-juicy.vercel.app",
+      "techStacks": [
+        "VueJs",
+        "NuxtJs",
+        "Pinia",
+        "TailwindCSS",
+        "Supabase",
+        "Telegram API",
+        "Git"
+      ]
+    },
+    {
+      "thumbnail": "/images/b-cinebuzz/logo.png",
+      "title": "B-CineBuzz",
+      "category": "Entertainment",
+      "description": "Get ready to dive into the world of cinema like never before with CineBuzz! Whether you're looking for the latest movie releases, top-rated films, or hidden gems, CineBuzz is your ultimate movie companion. With detailed information, reviews, trailers, and more, CineBuzz keeps you in the loop on everything happening in the world of entertainment. Find your next binge-worthy movie, rate your favorites, or simply get lost in the buzz of the latest trends—CineBuzz is the one-stop destination for all things film.",
+      "video": "",
+      "image": ["/placeholder-1.jpeg", "/placeholder-2.jpeg"],
+      "url": "https://b-cinebuzz.vercel.app",
+      "techStacks": ["VueJs", "NuxtJs", "TailwindCSS", "TMDB API", "Git"]
+    },
+    {
+      "thumbnail": "/images/b-budgy/logo.png",
+      "title": "B-Budgy",
+      "category": "Finance",
+      "description": "Say hello to Budgy, your new best friend in managing personal finances. Whether you're tracking daily expenses, setting saving goals, or planning your next big purchase, Budgy makes budgeting easy, fun, and stress-free. Designed with simplicity in mind, Budgy helps you keep track of your spending, stay within budget, and reach your financial goals—all while keeping the experience lighthearted and approachable.",
+      "video": "",
+      "image": ["/placeholder-1.jpeg", "/placeholder-2.jpeg"],
+      "url": "https://b-budgy.vercel.app",
+      "techStacks": [
+        "ReactJs",
+        "NextJs",
+        "TailwindCSS",
+        "Supabase",
+        "Prisma",
+        "Git"
+      ]
+    },
+    {
+      "thumbnail": "/images/b-autowheel/logo.png",
+      "title": "B-AutoWheel",
+      "category": "Management",
+      "description": "With AutoWheel, managing your vehicles has never been easier or more fun. Whether you’re tracking maintenance schedules, monitoring fuel usage, or organizing your fleet, AutoWheel simplifies it all in one easy-to-use platform. Designed for both individuals and businesses, AutoWheel keeps everything you need in one place, making sure your vehicles are always ready to roll. From service reminders to route planning, we’ve got you covered so you can keep your wheels in motion with minimal effort.",
+      "video": "",
+      "image": ["/placeholder-1.jpeg", "/placeholder-2.jpeg"],
+      "url": "https://b-autowheel.vercel.app",
+      "techStacks": [
+        "VueJs",
+        "NuxtJs",
+        "Pinia",
+        "TailwindCSS",
+        "Springboot",
+        "Mysql",
+        "Docker",
+        "Git"
+      ]
+    },
+    {
+      "thumbnail": "/images/b-zapqr/logo.png",
+      "title": "B-ZapQR",
+      "category": "Tool",
+      "description": "ZapQR is the simplest and quickest way to turn any URL into a scannable QR code. Whether you're sharing a website, a blog, or any online content, ZapQR makes it easy to generate, download, and share QR codes in just a few clicks. No complex steps, no hassle—just paste your link and ZapQR will instantly create a unique QR code that’s ready for you to use. Perfect for businesses, events, or personal use, ZapQR is designed for speed and ease, helping you connect with your audience faster than ever.",
+      "video": "",
+      "image": ["/placeholder-1.jpeg", "/placeholder-2.jpeg"],
+      "url": "https://b-zapqr.vercel.app",
+      "techStacks": ["ReactJs", "NextJs", "TailwindCSS", "Git"]
+    }
+  ]
+  

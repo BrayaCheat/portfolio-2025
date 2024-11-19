@@ -1,0 +1,78 @@
+{
+    "name": "Braya",
+    "introduction": "Hello! I'm Braya, a junior software developer with a strong foundation in both frontend and backend technologies. I am passionate about creating user-centric, scalable, and efficient web applications that deliver exceptional user experiences. With a diverse tech stack and a drive for continuous learning, I am dedicated to crafting solutions that meet the demands of modern web development.",
+    "age": 21,
+    "height": 1.68,
+    "weight": 60,
+    "location": "Your City, Country",
+    "education": {
+      "degree": "Bachelor's in Computer Science",
+      "institution": "Your University Name",
+      "graduation_year": 2025
+    },
+    "experience": [
+      {
+        "role": "Junior Software Developer",
+        "company": "Your Current Company",
+        "duration": "1 year",
+        "responsibilities": [
+          "Developing and maintaining web applications using Vue.js, Nuxt.js, and other frontend technologies.",
+          "Building RESTful APIs with Node.js and Express.js to support dynamic web content and functionality.",
+          "Collaborating with cross-functional teams to deliver projects that align with business goals.",
+          "Implementing responsive design and ensuring cross-browser compatibility for web applications."
+        ]
+      }
+    ],
+    "skills": {
+      "frontend": [
+        "Vue.js",
+        "Nuxt.js",
+        "Tailwind CSS",
+        "ShadCN",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "backend": [
+        "Node.js",
+        "Express.js",
+        "Spring Boot"
+      ],
+      "databases": [
+        "MySQL",
+        "MongoDB",
+        "Supabase"
+      ],
+      "other": [
+        "Prisma ORM",
+        "RESTful APIs",
+        "Git",
+        "Agile Methodologies"
+      ]
+    },
+    "projects": [
+      {
+        "name": "E-commerce Platform",
+        "description": "Developed a full-stack e-commerce platform that supports product listing, user authentication, and payment processing. Utilized Vue.js for the frontend, Node.js and Express.js for the backend, and integrated with MySQL for data storage.",
+        "technologies": ["Vue.js", "Node.js", "Express.js", "MySQL", "Tailwind CSS"]
+      },
+      {
+        "name": "Portfolio Website",
+        "description": "Created a personal portfolio website to showcase my projects and skills. Built with Nuxt.js and Tailwind CSS, emphasizing a clean, responsive design.",
+        "technologies": ["Nuxt.js", "Tailwind CSS"]
+      }
+    ],
+    "description": "I enjoy the challenge of solving complex problems and thrive in environments where I can work on projects that make a difference. My technical skills in both frontend and backend development allow me to take on a variety of roles within a project, from creating intuitive user interfaces to building scalable APIs. I am highly motivated, detail-oriented, and continuously expanding my skill set to keep up with the latest technologies.",
+    "personal_details": {
+      "hobbies": ["Coding", "Gaming", "Traveling", "Photography"],
+      "device_ownership": ["iPhone 14 Pro Max", "Apple Watch Series 10"],
+      "store_owner": true
+    },
+    "goals": "My current goal is to enhance my proficiency in backend frameworks and databases, as well as to gain more experience with cloud-based solutions. I am also interested in contributing to open-source projects to further develop my coding skills and collaborate with the developer community.",
+    "contact": {
+      "email": "your.email@example.com",
+      "linkedin": "https://www.linkedin.com/in/your-profile",
+      "github": "https://github.com/your-username",
+      "portfolio": "https://your-portfolio.com"
+    }
+  }

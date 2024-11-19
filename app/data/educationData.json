@@ -1,0 +1,24 @@
+[
+    {
+      "image": "/images/baktuk.jpeg",
+      "title": "Baktouk HighSchool",
+      "role": "Foundation",
+      "startDate": "2009",
+      "endDate": "2021"
+    },
+    {
+      "image": "/images/ace.png",
+      "title": "Australia Centre Of Education",
+      "role": "English",
+      "startDate": "2021",
+      "endDate": "2024"
+    },
+    {
+      "image": "/images/rupp.jpeg",
+      "title": "Royal University Of Phnom Penh",
+      "role": "Computer Science",
+      "startDate": "2021",
+      "endDate": "2025"
+    }
+  ]
+  
