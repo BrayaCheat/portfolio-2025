@@ -43,35 +43,5 @@
         "Prisma",
         "Git"
       ]
-    },
-    {
-      "thumbnail": "/images/b-autowheel/logo.png",
-      "title": "B-AutoWheel",
-      "category": "Management",
-      "description": "With AutoWheel, managing your vehicles has never been easier or more fun. Whether you’re tracking maintenance schedules, monitoring fuel usage, or organizing your fleet, AutoWheel simplifies it all in one easy-to-use platform. Designed for both individuals and businesses, AutoWheel keeps everything you need in one place, making sure your vehicles are always ready to roll. From service reminders to route planning, we’ve got you covered so you can keep your wheels in motion with minimal effort.",
-      "video": "",
-      "image": ["/placeholder-1.jpeg", "/placeholder-2.jpeg"],
-      "url": "https://b-autowheel.vercel.app",
-      "techStacks": [
-        "VueJs",
-        "NuxtJs",
-        "Pinia",
-        "TailwindCSS",
-        "Springboot",
-        "Mysql",
-        "Docker",
-        "Git"
-      ]
-    },
-    {
-      "thumbnail": "/images/b-zapqr/logo.png",
-      "title": "B-ZapQR",
-      "category": "Tool",
-      "description": "ZapQR is the simplest and quickest way to turn any URL into a scannable QR code. Whether you're sharing a website, a blog, or any online content, ZapQR makes it easy to generate, download, and share QR codes in just a few clicks. No complex steps, no hassle—just paste your link and ZapQR will instantly create a unique QR code that’s ready for you to use. Perfect for businesses, events, or personal use, ZapQR is designed for speed and ease, helping you connect with your audience faster than ever.",
-      "video": "",
-      "image": ["/placeholder-1.jpeg", "/placeholder-2.jpeg"],
-      "url": "https://b-zapqr.vercel.app",
-      "techStacks": ["ReactJs", "NextJs", "TailwindCSS", "Git"]
     }
   ]
-  

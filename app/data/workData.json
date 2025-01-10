@@ -1,19 +1,5 @@
 [
     {
-        "image": "/images/eric.png",
-        "title": "Eric Kayser",
-        "role": "Barista",
-        "startDate": "May 2022",
-        "endDate": "August 2022"
-    },
-    {
-        "image": "/images/advanced.png",
-        "title": "Advanced MSP",
-        "role": "API Analysis",
-        "startDate": "May 2024",
-        "endDate": "August 2024"
-    },
-    {
         "image": "/images/vtech.jpg",
         "title": "VTech",
         "role": "Software Developer",
